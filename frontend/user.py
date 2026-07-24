@@ -1,2 +1,2 @@
 print("New user")
-print("new user - 2")
+print("new user")
