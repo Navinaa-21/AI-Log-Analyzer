@@ -1,8 +1,5 @@
-print("Comitted a message for testing - First test")
-print("This is s econd commit test for AI Log Analyzer")
-print("This is the third commit test for AI Log Analyzer")
-print("This is the 4th commit test for AI Log Analyzer")
+def add(a, b):
+    return a + b
 
-print("Hope this time we fixed the issue!")
-
-print("the backend is yet to be completed")
+result = add(5, 3)
+print("Sum:", result)
