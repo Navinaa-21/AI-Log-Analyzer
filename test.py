@@ -1,2 +1,6 @@
-name = input("Please, enter your name: ")
-print(f"Hello, {name}!")
+numbers1 = [1, 2, 3]
+numbers2 = [4, 5, 6]
+
+merged = numbers1 + numbers2
+
+print(merged)
